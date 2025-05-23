@@ -1,1 +1,1 @@
-# LPIC-1-101-lab-study-guide
+# 🔧 LPIC-1 Exam 101 Labs & Study Guide
