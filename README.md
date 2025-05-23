@@ -1,6 +1,6 @@
-# 🔧 LPIC-1 Exam 101 Labs & Study Guide
+# 🔧 LPIC-1 Exam 101-500 Labs & Study Guide
 
-# EXAM 101:
+# EXAM 101-500:
 ## Topic 101: 🖥️ System Architecture
 
 	[101.1 Determine and configure hardware settings]()
