@@ -1,7 +1,7 @@
 # 🔧 LPIC-1 Exam 101 Labs & Study Guide
 
 # EXAM 101:
-## -Topic 101: 🖥️ System Architecture
+## Topic 101: 🖥️ System Architecture
 
 	[101.1 Determine and configure hardware settings]()
  
@@ -9,7 +9,7 @@
  
 	[101.3 Change run levels / boot targets and shutdown or reboot system]()
 
-## -Topic 102: Linux Installation and 📦 Package Management
+## Topic 102: Linux Installation and 📦 Package Management
 
 	[102.1 Design hard disk layout]()
  
@@ -23,7 +23,7 @@
  
 	[102.6 Linux as a virtualization guest]()
 
-## -Topic 103:🐧 GNU and Unix Commands
+## Topic 103:🐧 GNU and Unix Commands
 
 	[103.1 Work on the command line]()
  
@@ -41,7 +41,7 @@
  
 	[103.8 Basic file editing]()
 
-## -Topic 104: Devices, Linux Filesystems,📂 Filesystem Hierarchy Standard
+## Topic 104: Devices, Linux Filesystems,📂 Filesystem Hierarchy Standard
 
 	[104.1 Create partitions and filesystems]()
  
