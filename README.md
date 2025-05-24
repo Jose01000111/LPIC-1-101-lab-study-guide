@@ -2,7 +2,6 @@
 
 # EXAM 101-500:
 ## Topic 101: 🖥️ System Architecture
-
 	[101.1 Determine and configure hardware settings]()
  
 	[101.2 Boot the system]()
