@@ -10,7 +10,7 @@
 
 [102.1 Design hard disk layout](https://github.com/Jose01000111/102.1-Disk_Layout_design.git)
  
-[102.2 Install a boot manager]()
+[102.2 Install a boot manager](https://github.com/Jose01000111/LPIC1-102.2-Install-a-Boot-Manager.git)
  
 [102.3 Manage shared libraries]()
  
