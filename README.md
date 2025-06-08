@@ -12,7 +12,7 @@
  
 [102.2 Install a boot manager](https://github.com/Jose01000111/LPIC1-102.2-Install-a-Boot-Manager.git)
  
-[102.3 Manage shared libraries]()
+[102.3 Manage shared libraries](https://github.com/Jose01000111/102.3-Managed-Shared-Libraries.git)
  
 [102.4 Use Debian package management]()
  
