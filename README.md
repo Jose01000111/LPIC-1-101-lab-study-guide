@@ -16,7 +16,7 @@
  
 [102.4 Use Debian package management](https://github.com/Jose01000111/102.4-Use-Debian-Package-Management.git)
  
-[102.5 Use RPM and YUM package management]()
+[102.5 Use RPM and YUM package management](https://github.com/Jose01000111/102.5-Use-RPM-and-YUM-package-management.git)
  
 [102.6 Linux as a virtualization guest](https://github.com/Jose01000111/Linux-as-a-Virtualization-Guest.git)
 
