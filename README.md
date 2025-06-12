@@ -18,7 +18,7 @@
  
 [102.5 Use RPM and YUM package management]()
  
-[102.6 Linux as a virtualization guest]()
+[102.6 Linux as a virtualization guest](https://github.com/Jose01000111/Linux-as-a-Virtualization-Guest.git)
 
 ## Topic 103:🐧 GNU and Unix Commands
 
