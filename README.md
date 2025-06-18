@@ -24,7 +24,7 @@
 
 [103.1 Work on the command line](https://github.com/Jose01000111/103.1-Work-on-the-command-line.git)
  
-[103.2 Process text streams using filters]()
+[103.2 Process text streams using filters](https://github.com/Jose01000111/103.2-Process-Text-Streams-Using-Filters.git)
  
 [103.3 Perform basic file management]()
  
