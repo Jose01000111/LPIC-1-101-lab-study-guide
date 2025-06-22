@@ -32,7 +32,7 @@
  
 [103.5 Create, monitor and kill processes](https://github.com/Jose01000111/103.5-Create-Monitor-and-Kill-Processes.git)
  
-[103.6 Modify process execution priorities]()
+[103.6 Modify process execution priorities](https://github.com/Jose01000111/103.6-Modify-process-execution-priorities.git)
  
 [103.7 Search text files using regular expressions]()
  
