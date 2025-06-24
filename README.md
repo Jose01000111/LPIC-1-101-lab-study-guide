@@ -34,7 +34,7 @@
  
 [103.6 Modify process execution priorities](https://github.com/Jose01000111/103.6-Modify-process-execution-priorities.git)
  
-[103.7 Search text files using regular expressions]()
+[103.7 Search text files using regular expressions](https://github.com/Jose01000111/103.7-Search-Text-Files-Using-Regular-Expressions.git)
  
 [103.8 Basic file editing]()
 
