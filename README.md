@@ -47,7 +47,7 @@
 | 104.2 – Filesystem Integrity | [Check FS Integrity](https://github.com/Jose01000111/104.2-Maintain-the-Integrity-of-Filesystems.git) |
 | 104.3 – Mounting & Unmounting | [Mount & Unmount Disks](https://github.com/Jose01000111/104.3-Control-Mounting-and-Unmounting-of-Filesystems.git) |
 | 104.5 – Permissions & Ownership | [File Permissions & Ownership]() |
-| 104.6 – Hard & Symbolic Links | [Create Links]() |
+| 104.6 – Hard & Symbolic Links | [Create Links](https://github.com/Jose01000111/104.6-Create-and-Change-Hard-and-Symbolic-Links.git) |
 | 104.7 – Locate System Files | [Find Files in FHS]() |
 
 ---
