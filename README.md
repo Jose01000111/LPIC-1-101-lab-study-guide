@@ -48,7 +48,7 @@
 | 104.3 – Mounting & Unmounting | [Mount & Unmount Disks](https://github.com/Jose01000111/104.3-Control-Mounting-and-Unmounting-of-Filesystems.git) |
 | 104.5 – Permissions & Ownership | [File Permissions & Ownership](https://github.com/Jose01000111/104.5-Manage-File-Permissions-and-Ownership.git) |
 | 104.6 – Hard & Symbolic Links | [Create Links](https://github.com/Jose01000111/104.6-Create-and-Change-Hard-and-Symbolic-Links.git) |
-| 104.7 – Locate System Files | [Find Files in FHS]() |
+| 104.7 – Locate System Files | [Find Files in FHS](https://github.com/Jose01000111/104.7-Find-System-Files-and-Place-Files-in-the-Correct-Location.git) |
 
 ---
 
